@@ -8,4 +8,4 @@ Overview
 
 ### Iota Isometric Overview
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-overview-dark.jpg" width="500px">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-overview-dark.jpg" width="full">
