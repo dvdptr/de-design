@@ -4,7 +4,7 @@ Overview
 
 ### Iota Isometric
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-davidebner.png" width="500px">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-davidebner.png" width="full">
 
 ### Iota Isometric Overview Dark
 
@@ -16,8 +16,8 @@ Overview
 
 ### Axpr MatchBX
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/axpr-mbx-isometric.jpg" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/axpr-mbx-isometric.png" width="full">
 
 ### Axpr Logo Isometric
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/axpr-logo-isometric.jpg" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/axpr-logo-isometric.png" width="full">
