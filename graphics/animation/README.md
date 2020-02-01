@@ -6,8 +6,8 @@ Live version can be seen [here](http://www.tongtong.de), link to repo [here](htt
 
 #### Website Animation
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animations/tongtong-animation-I.png" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animation/tongtong-animation-I.png" width="full">
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animations/tongtong-animation-II.png" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animation/tongtong-animation-II.png" width="full">
 
-<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animations/tongtong-animation-III.png" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/graphics/animation/tongtong-animation-III.png" width="full">
