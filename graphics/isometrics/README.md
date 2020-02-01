@@ -2,7 +2,7 @@
 
 Overview
 
-### Isometric graphics for Iota
+## Isometric graphics for Iota
 
 <img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-davidebner.png" width="full">
 
@@ -14,7 +14,7 @@ Overview
 
 <img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/iota-overview-light.jpg" width="full">
 
-### Isometric graphics for Axpire
+## Isometric graphics for Axpire
 
 <img src="https://github.com/dvdptr/de-design/blob/master/graphics/isometrics/axpr-mbx-isometric.png" width="full">
 
