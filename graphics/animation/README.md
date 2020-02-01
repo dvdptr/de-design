@@ -2,7 +2,7 @@
 
 In-Browser animation made with p5.js, live rendering a rotating obj-file. 
 
-Live version can be seen [here](http://www.tongtong.de), link to repo [here](https://github.com/tongtongsound/website)
+Links: [Live Version](http://www.tongtong.de) | [Repo](https://github.com/tongtongsound/website)
 
 #### Website Animation
 
