@@ -10,6 +10,11 @@ Links: [Repo](https://www.github.com/artdecenter) | [Website](https://www.artdec
 
 <img src="https://github.com/ArtDecenter/design/blob/master/banner/artdecenter-banner-logo.png" width="full">
 
+### Alternate Banner
+
+<img src="https://github.com/ArtDecenter/design/blob/master/banner/a-market-as-open-as-art-itself.png" width="full">
+
+
 ### App Mockup
 
 <img src="https://github.com/ArtDecenter/design/blob/master/mockup-diagrams/ad-app-mockup.png" width="full">
