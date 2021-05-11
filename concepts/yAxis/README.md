@@ -10,7 +10,7 @@
 
 <img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/yax-emojHeader.png" width="full">
 <img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/yaxis-newsletterHeader.png" width="full">
-<img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/yaxis-newsletter-header-proposal-2.png" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/yaxis-newsletter-header-proposal2.png" width="full">
 
 ---
 
