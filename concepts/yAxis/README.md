@@ -2,7 +2,7 @@
 
 #### yAxis Tutorial Graphic
 
-<img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/gettingStarted-Uniswap-noArrows.png" width="full">
+<img src="https://github.com/dvdptr/de-design/blob/master/concepts/yAxis/gettingStarted-Uniswap-NoArrows.png" width="full">
 
 ---
 
